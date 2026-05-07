@@ -1,11 +1,11 @@
 {
-  "name": "LangChain inspired",
+  "name": "zleek",
   "about_url": "https://www.langchain.com/",
   "license_url": null,
   "component": false,
   "authors": "Penar Musaraj",
   "color_schemes": {
-    "LangChain dark": {
+    "zleek dark": {
       "primary": "F8FCFF",
       "secondary": "030710",
       "tertiary": "7FC8FF",
