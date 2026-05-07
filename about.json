@@ -1,0 +1,21 @@
+{
+  "name": "LangChain inspired",
+  "about_url": "https://www.langchain.com/",
+  "license_url": null,
+  "component": false,
+  "authors": "Penar Musaraj",
+  "color_schemes": {
+    "LangChain dark": {
+      "primary": "CCE9FF",
+      "secondary": "030710",
+      "tertiary": "7FC8FF",
+      "quaternary": "40668D",
+      "header_background": "030710",
+      "header_primary": "F2FAFF",
+      "highlight": "161F34",
+      "danger": "E05A6F",
+      "success": "7FD2A8",
+      "love": "BEB4FD"
+    }
+  }
+}
